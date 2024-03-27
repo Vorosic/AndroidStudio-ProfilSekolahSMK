@@ -21,7 +21,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:adjustViewBounds="true"
-                app:srcCompat="@drawable/aboutme" />
+                app:srcCompat="@drawable/whatsapp_image_2024_03_27_at_10_55_13_am" />
 
         </LinearLayout>
     </ScrollView>
